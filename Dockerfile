@@ -1,1 +1,1 @@
-From docker.io/bitnami/mongodb:4.2.5-debian-10-r44
+From quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
