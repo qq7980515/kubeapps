@@ -1,1 +1,1 @@
-From jettech/kube-webhook-certgen:v1.0.0
+From docker.elastic.co/kibana/kibana-oss:7.2.0
